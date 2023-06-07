@@ -1,0 +1,49 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    max-width: 100%;
+    height: 100vh;
+    background-color: #000000;
+    text-align: center;
+}
+
+header{
+    width: 100%;
+    text-align: center;
+}
+
+header img{
+    height: 12vh;
+}
+
+.button{
+    width: 100%;
+    margin: 5vh 0 0 0;
+}
+
+button{
+    width: 10%;
+    height: 5vh;
+    border-radius: 15px;
+    border: none;
+}
+
+canvas{
+    background-color: aliceblue;
+    border: 5px solid rgb(0, 60, 255);
+    margin-top: 1%;
+}
+
+.timer{
+    background-color: #000000;
+    color: #FFFFFF;
+    font-size: 10vh;
+}
+
+h3{
+    color: #FFFFFF;
+}

@@ -1,0 +1,14 @@
+PROJET-JS
+
+TETRIS
+
+ELEMENTS A FINIR :
+- Les colisions des blocs par rapport au canvas (bordures du jeux)
+- Les colisions entre les blocs
+- Les gains de points
+
+ELEMENTS NON-NECESSAIRES : 
+- Le timer / contre la montre ??
+- Ajouter des niveaux 
+- Jeux de couleurs par rapports aux niveaux 
+- Accelération du temps en fonction des points
